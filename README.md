@@ -6,3 +6,6 @@ Interesting stuff I like
 
 ### November 8, 2016
 - [AdvancedTopicTutorial · t9md/atom-vim-mode-plus Wiki](https://github.com/t9md/atom-vim-mode-plus/wiki/AdvancedTopicTutorial) 
+
+### November 10, 2016
+- [operator, the true power of Vim](http://whileimautomaton.net/2008/11/vimm3/operator) 
