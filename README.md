@@ -9,3 +9,6 @@ Interesting stuff I like
 
 ### November 10, 2016
 - [operator, the true power of Vim](http://whileimautomaton.net/2008/11/vimm3/operator) 
+
+### November 30, 2016
+- [I/O Redirection](http://www.tldp.org/LDP/abs/html/io-redirection.html) 
