@@ -12,3 +12,4 @@ Interesting stuff I like
 
 ### November 30, 2016
 - [I/O Redirection](http://www.tldp.org/LDP/abs/html/io-redirection.html) 
+- [I/O Redirection](http://www.tldp.org/LDP/abs/html/io-redirection.html) 
