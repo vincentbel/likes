@@ -13,3 +13,6 @@ Interesting stuff I like
 ### November 30, 2016
 - [I/O Redirection](http://www.tldp.org/LDP/abs/html/io-redirection.html) 
 - [I/O Redirection](http://www.tldp.org/LDP/abs/html/io-redirection.html) 
+
+### December 5, 2016
+- [网页截图:注释&批注 - Chrome 网上应用店](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj) 
