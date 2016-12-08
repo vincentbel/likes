@@ -16,3 +16,6 @@ Interesting stuff I like
 
 ### December 5, 2016
 - [网页截图:注释&批注 - Chrome 网上应用店](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj) 
+
+### December 8, 2016
+- [reactjs/reselect: Selector library for Redux](https://github.com/reactjs/reselect#q-why-isnt-my-selector-recomputing-when-the-input-state-changes) 
