@@ -19,3 +19,6 @@ Interesting stuff I like
 
 ### December 8, 2016
 - [reactjs/reselect: Selector library for Redux](https://github.com/reactjs/reselect#q-why-isnt-my-selector-recomputing-when-the-input-state-changes) 
+
+### December 9, 2016
+- [Vjeux » Javascript – How Prototypal Inheritance really works](http://blog.vjeux.com/2011/javascript/how-prototypal-inheritance-really-works.html) 
