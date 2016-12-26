@@ -22,3 +22,6 @@ Interesting stuff I like
 
 ### December 9, 2016
 - [Vjeux » Javascript – How Prototypal Inheritance really works](http://blog.vjeux.com/2011/javascript/how-prototypal-inheritance-really-works.html) 
+
+### December 27, 2016
+- [Lockfiles should be committed on all projects | Yarn Blog](https://yarnpkg.com/blog/2016/11/24/lockfiles-for-all) 
