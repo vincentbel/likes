@@ -28,3 +28,4 @@ Interesting stuff I like
 
 ### February 7, 2017
 - [npms](https://npms.io/about) 
+- [How To Write Fast, Memory-Efficient JavaScript – Smashing Magazine](https://www.smashingmagazine.com/2012/11/writing-fast-memory-efficient-javascript/) 
