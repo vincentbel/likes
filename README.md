@@ -29,3 +29,6 @@ Interesting stuff I like
 ### February 7, 2017
 - [npms](https://npms.io/about) 
 - [How To Write Fast, Memory-Efficient JavaScript – Smashing Magazine](https://www.smashingmagazine.com/2012/11/writing-fast-memory-efficient-javascript/) 
+
+### February 10, 2017
+- [Here are 250 Ivy League courses you can take online right now for free](https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869#.blxjw37yq) 
