@@ -32,3 +32,6 @@ Interesting stuff I like
 
 ### February 10, 2017
 - [Here are 250 Ivy League courses you can take online right now for free](https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869#.blxjw37yq) 
+
+### February 17, 2017
+- [DRY原则的误区](http://www.yinwang.org/blog-cn/2015/06/14/dry-principle) 
