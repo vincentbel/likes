@@ -36,3 +36,6 @@ Interesting stuff I like
 ### February 17, 2017
 - [DRY原则的误区](http://www.yinwang.org/blog-cn/2015/06/14/dry-principle) 
 - [什么是“脚本语言”](http://www.yinwang.org/blog-cn/2013/03/29/scripting-language) 
+
+### February 22, 2017
+- [Optimization killers · petkaantonov/bluebird Wiki](https://github.com/petkaantonov/bluebird/wiki/Optimization-killers) 
