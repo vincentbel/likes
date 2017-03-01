@@ -39,3 +39,6 @@ Interesting stuff I like
 
 ### February 22, 2017
 - [Optimization killers · petkaantonov/bluebird Wiki](https://github.com/petkaantonov/bluebird/wiki/Optimization-killers) 
+
+### March 1, 2017
+- [A cartoon intro to WebAssembly ★ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/) 
