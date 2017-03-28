@@ -45,3 +45,6 @@ Interesting stuff I like
 
 ### March 28, 2017
 - [Setup a Shadowsocks relay · shadowsocks/shadowsocks Wiki](https://github.com/shadowsocks/shadowsocks/wiki/Setup-a-Shadowsocks-relay) 
+
+### March 29, 2017
+- [iTerm as a slide-out terminal from the top of the screen - Ask Different](http://apple.stackexchange.com/questions/48796/iterm-as-a-slide-out-terminal-from-the-top-of-the-screen) 
