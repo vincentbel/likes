@@ -42,3 +42,6 @@ Interesting stuff I like
 
 ### March 1, 2017
 - [A cartoon intro to WebAssembly ★ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/) 
+
+### March 28, 2017
+- [Setup a Shadowsocks relay · shadowsocks/shadowsocks Wiki](https://github.com/shadowsocks/shadowsocks/wiki/Setup-a-Shadowsocks-relay) 
