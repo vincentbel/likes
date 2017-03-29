@@ -48,3 +48,4 @@ Interesting stuff I like
 
 ### March 29, 2017
 - [iTerm as a slide-out terminal from the top of the screen - Ask Different](http://apple.stackexchange.com/questions/48796/iterm-as-a-slide-out-terminal-from-the-top-of-the-screen) 
+- [More specific if conditions lead to ~10% faster render. by asolove · Pull Request #610 · developit/preact](https://github.com/developit/preact/pull/610) 
