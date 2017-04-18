@@ -49,3 +49,6 @@ Interesting stuff I like
 ### March 29, 2017
 - [iTerm as a slide-out terminal from the top of the screen - Ask Different](http://apple.stackexchange.com/questions/48796/iterm-as-a-slide-out-terminal-from-the-top-of-the-screen) 
 - [More specific if conditions lead to ~10% faster render. by asolove · Pull Request #610 · developit/preact](https://github.com/developit/preact/pull/610) 
+
+### April 18, 2017
+- [4K and 5K Display Buyer's Guide for Macs - Mac Rumors](https://www.macrumors.com/guide/4k-5k-displays-buyers-guide-mac/) 
