@@ -52,3 +52,6 @@ Interesting stuff I like
 
 ### April 18, 2017
 - [4K and 5K Display Buyer's Guide for Macs - Mac Rumors](https://www.macrumors.com/guide/4k-5k-displays-buyers-guide-mac/) 
+
+### May 11, 2017
+- [Webpack Visualizer](https://chrisbateman.github.io/webpack-visualizer/) 
