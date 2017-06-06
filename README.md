@@ -55,3 +55,6 @@ Interesting stuff I like
 
 ### May 11, 2017
 - [Webpack Visualizer](https://chrisbateman.github.io/webpack-visualizer/) 
+
+### June 6, 2017
+- [Google not, learn not: why searching can sometimes be better than knowing](https://medium.freecodecamp.com/google-not-learn-not-why-searching-can-be-better-than-knowing-79838f7a0f06) 
