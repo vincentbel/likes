@@ -58,3 +58,6 @@ Interesting stuff I like
 
 ### June 6, 2017
 - [Google not, learn not: why searching can sometimes be better than knowing](https://medium.freecodecamp.com/google-not-learn-not-why-searching-can-be-better-than-knowing-79838f7a0f06) 
+
+### June 29, 2017
+- [Sorting Algorithm Animations | Toptal](https://www.toptal.com/developers/sorting-algorithms) 
