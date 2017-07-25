@@ -64,3 +64,4 @@ Interesting stuff I like
 
 ### July 25, 2017 
 - [LukeW | Mobile Design Details: Avoid The Spinner](https://www.lukew.com/ff/entry.asp?1797) 
+- [Optimistic UI – True Lies – Smashing Magazine](https://www.smashingmagazine.com/2016/11/true-lies-of-optimistic-user-interfaces/) 
