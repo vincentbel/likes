@@ -61,3 +61,6 @@ Interesting stuff I like
 
 ### June 29, 2017
 - [Sorting Algorithm Animations | Toptal](https://www.toptal.com/developers/sorting-algorithms) 
+
+### July 25, 2017 
+- [LukeW | Mobile Design Details: Avoid The Spinner](https://www.lukew.com/ff/entry.asp?1797) 
