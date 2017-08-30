@@ -68,3 +68,6 @@ Interesting stuff I like
 
 ### August 25, 2017 
 - [Secure and fast GitHub Pages with CloudFlare](https://blog.cloudflare.com/secure-and-fast-github-pages-with-cloudflare/) 
+
+### August 30, 2017 
+- [Joyent | Error Handling](https://www.joyent.com/node-js/production/design/errors) 
