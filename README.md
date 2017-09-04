@@ -71,3 +71,6 @@ Interesting stuff I like
 
 ### August 30, 2017 
 - [Joyent | Error Handling](https://www.joyent.com/node-js/production/design/errors) 
+
+### September 4, 2017 
+- [How Elm Slays a UI Antipattern](http://blog.jenkster.com/2016/06/how-elm-slays-a-ui-antipattern.html) 
