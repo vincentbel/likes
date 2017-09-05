@@ -74,3 +74,6 @@ Interesting stuff I like
 
 ### September 4, 2017 
 - [How Elm Slays a UI Antipattern](http://blog.jenkster.com/2016/06/how-elm-slays-a-ui-antipattern.html) 
+
+### September 5, 2017 
+- [It's Not Just Standing Up: Patterns for Daily Standup Meetings](https://martinfowler.com/articles/itsNotJustStandingUp.html#WhereAndWhen) 
