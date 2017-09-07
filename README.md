@@ -77,3 +77,6 @@ Interesting stuff I like
 
 ### September 5, 2017 
 - [It's Not Just Standing Up: Patterns for Daily Standup Meetings](https://martinfowler.com/articles/itsNotJustStandingUp.html#WhereAndWhen) 
+
+### September 7, 2017 
+- [利用dns解析来实现网站的负载均衡 - 程序员就要好好玩 - SegmentFault](https://segmentfault.com/a/1190000002578457) 
