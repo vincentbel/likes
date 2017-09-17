@@ -81,3 +81,6 @@ Interesting stuff I like
 ### September 7, 2017 
 - [利用dns解析来实现网站的负载均衡 - 程序员就要好好玩 - SegmentFault](https://segmentfault.com/a/1190000002578457) 
 - [Tutorial: Using Docker and Nginx to Host Multiple Websites](http://blog.ssdnodes.com/blog/tutorial-using-docker-and-nginx-to-host-multiple-websites) 
+
+### September 17, 2017 
+- [How to Avoid Focus-stealing Traps](https://blog.evernote.com/blog/2017/08/08/avoid-focus-stealing-traps/?origin=email_sfmc&utm_source=sfmc&utm_medium=email&utm_campaign=EVN-ENG-NLS-88-EN-8888-Newsletter_082317&utm_content=button) 
