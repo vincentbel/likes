@@ -84,3 +84,6 @@ Interesting stuff I like
 
 ### September 17, 2017 
 - [How to Avoid Focus-stealing Traps](https://blog.evernote.com/blog/2017/08/08/avoid-focus-stealing-traps/?origin=email_sfmc&utm_source=sfmc&utm_medium=email&utm_campaign=EVN-ENG-NLS-88-EN-8888-Newsletter_082317&utm_content=button) 
+
+### September 19, 2017 
+- [Three Rules For Structuring (Redux) Applications — Jack Hsu](https://jaysoo.ca/2016/02/28/organizing-redux-application/#rule-2-create-strict-module-boundaries) 
