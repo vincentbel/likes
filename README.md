@@ -88,3 +88,6 @@ Interesting stuff I like
 ### September 19, 2017 
 - [Three Rules For Structuring (Redux) Applications — Jack Hsu](https://jaysoo.ca/2016/02/28/organizing-redux-application/#rule-2-create-strict-module-boundaries) 
 - [Deploying ES2015+ Code in Production Today — Philip Walton](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-09-19) 
+
+### September 24, 2017 
+- [Re:从零开始的异世界Apple ID注册教程 - 知乎专栏](https://zhuanlan.zhihu.com/p/28625807) 
