@@ -94,3 +94,4 @@ Interesting stuff I like
 
 ### September 26, 2017 
 - [GoodUI | Good User Interfaces for higher conversion rates and ease of use](https://goodui.org/#3) 
+- [理解HTTP幂等性 - Todd Wei - 博客园](http://www.cnblogs.com/weidagang2046/archive/2011/06/04/idempotence.html) 
