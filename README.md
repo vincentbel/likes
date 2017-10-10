@@ -95,3 +95,6 @@ Interesting stuff I like
 ### September 26, 2017 
 - [GoodUI | Good User Interfaces for higher conversion rates and ease of use](https://goodui.org/#3) 
 - [理解HTTP幂等性 - Todd Wei - 博客园](http://www.cnblogs.com/weidagang2046/archive/2011/06/04/idempotence.html) 
+
+### October 10, 2017 
+- [A Guide to Faster Web App I/O and Data Operations with Streams - Blog | SitePen](https://www.sitepen.com/blog/2017/10/02/a-guide-to-faster-web-app-io-and-data-operations-with-streams/) 
