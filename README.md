@@ -98,3 +98,6 @@ Interesting stuff I like
 
 ### October 10, 2017 
 - [A Guide to Faster Web App I/O and Data Operations with Streams - Blog | SitePen](https://www.sitepen.com/blog/2017/10/02/a-guide-to-faster-web-app-io-and-data-operations-with-streams/) 
+
+### October 11, 2017 
+- [The whole web at maximum FPS: How WebRender gets rid of jank ★ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank/) 
