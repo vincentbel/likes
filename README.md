@@ -101,3 +101,6 @@ Interesting stuff I like
 
 ### October 11, 2017 
 - [The whole web at maximum FPS: How WebRender gets rid of jank ★ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank/) 
+
+### October 23, 2017 
+- [LukeW | What Would Augment Reality? (1-10)](https://www.lukew.com/ff/entry.asp?1974) 
