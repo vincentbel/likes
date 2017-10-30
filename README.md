@@ -104,3 +104,6 @@ Interesting stuff I like
 
 ### October 23, 2017 
 - [LukeW | What Would Augment Reality? (1-10)](https://www.lukew.com/ff/entry.asp?1974) 
+
+### October 30, 2017 
+- [JavaScript character escape sequences · Mathias Bynens](https://mathiasbynens.be/notes/javascript-escapes#code-points) 
