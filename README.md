@@ -107,3 +107,6 @@ Interesting stuff I like
 
 ### October 30, 2017 
 - [JavaScript character escape sequences · Mathias Bynens](https://mathiasbynens.be/notes/javascript-escapes#code-points) 
+
+### November 7, 2017 
+- [Equality comparisons and sameness - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness) 
