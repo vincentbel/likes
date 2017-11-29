@@ -113,3 +113,6 @@ Interesting stuff I like
 
 ### November 15, 2017 
 - [GitHub Flow – Scott Chacon](http://scottchacon.com/2011/08/31/github-flow.html) 
+
+### November 29, 2017 
+- [22. Generators](http://exploringjs.com/es6/ch_generators.html) 
