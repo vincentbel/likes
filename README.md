@@ -116,3 +116,6 @@ Interesting stuff I like
 
 ### November 29, 2017 
 - [22. Generators](http://exploringjs.com/es6/ch_generators.html) 
+
+### January 4, 2018 
+- [Element size and scrolling](http://javascript.info/size-and-scroll#offsetparent-offsetleft-top) 
