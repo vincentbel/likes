@@ -119,3 +119,6 @@ Interesting stuff I like
 
 ### January 4, 2018 
 - [Element size and scrolling](http://javascript.info/size-and-scroll#offsetparent-offsetleft-top) 
+
+### January 5, 2018 
+- [A Strongly-Typed Redux Action Pattern for TypeScript 2.4+](https://spin.atomicobject.com/2017/07/24/redux-action-pattern-typescript/) 
