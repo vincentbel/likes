@@ -122,3 +122,6 @@ Interesting stuff I like
 
 ### January 5, 2018 
 - [A Strongly-Typed Redux Action Pattern for TypeScript 2.4+](https://spin.atomicobject.com/2017/07/24/redux-action-pattern-typescript/) 
+
+### March 6, 2018 
+- [Better JS Cases with Sum Types – Fullstack Academy – Medium](https://medium.com/fullstack-academy/better-js-cases-with-sum-types-92876e48fd9f) 
