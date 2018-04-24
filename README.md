@@ -125,3 +125,6 @@ Interesting stuff I like
 
 ### March 6, 2018 
 - [Better JS Cases with Sum Types – Fullstack Academy – Medium](https://medium.com/fullstack-academy/better-js-cases-with-sum-types-92876e48fd9f) 
+
+### April 24, 2018 
+- [Software Testing Anti-patterns · Codepipes Blog](http://blog.codepipes.com/testing/software-testing-antipatterns.html#anti-pattern-2---having-integration-tests-without-unit-tests) 
