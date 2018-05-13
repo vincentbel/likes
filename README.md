@@ -128,3 +128,6 @@ Interesting stuff I like
 
 ### April 24, 2018 
 - [Software Testing Anti-patterns · Codepipes Blog](http://blog.codepipes.com/testing/software-testing-antipatterns.html#anti-pattern-2---having-integration-tests-without-unit-tests) 
+
+### May 13, 2018 
+- [Maybe you don't need Rust and WASM to speed up your JS](https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html) 
