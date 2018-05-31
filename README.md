@@ -4,6 +4,7 @@ Interesting stuff I like
 
 ### May 31, 2018 
 - [Intersection Types | Flow](https://flow.org/en/docs/types/intersections/) 
+- [JavaScript has a Unicode problem · Mathias Bynens](https://mathiasbynens.be/notes/javascript-unicode) 
 ### November 7, 2016
 - [Idnan/like-on-git: Chrome extension - Link a repository with the extension and automatically save the links to content you like](https://github.com/Idnan/like-on-git) 
 
