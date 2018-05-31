@@ -5,6 +5,7 @@ Interesting stuff I like
 ### May 31, 2018 
 - [Intersection Types | Flow](https://flow.org/en/docs/types/intersections/) 
 - [JavaScript has a Unicode problem · Mathias Bynens](https://mathiasbynens.be/notes/javascript-unicode) 
+- [Interface vs Type alias in TypeScript 2.7 – Martin Hochel – Medium](https://medium.com/@martin_hotell/interface-vs-type-alias-in-typescript-2-7-2a8f1777af4c) 
 ### November 7, 2016
 - [Idnan/like-on-git: Chrome extension - Link a repository with the extension and automatically save the links to content you like](https://github.com/Idnan/like-on-git) 
 
