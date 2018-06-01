@@ -2,6 +2,9 @@
 Interesting stuff I like
 
 
+
+### June 1, 2018 
+- [What is and how does Single Sign On Authentication work?](https://auth0.com/blog/what-is-and-how-does-single-sign-on-work/) 
 ### May 31, 2018 
 - [Intersection Types | Flow](https://flow.org/en/docs/types/intersections/) 
 - [JavaScript has a Unicode problem · Mathias Bynens](https://mathiasbynens.be/notes/javascript-unicode) 
