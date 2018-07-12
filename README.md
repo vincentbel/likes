@@ -4,6 +4,9 @@ Interesting stuff I like
 
 
 
+
+### July 12, 2018 
+- [Metaprogramming in ES6: Symbols and why they're awesome](https://www.keithcirkel.co.uk/metaprogramming-in-es6-symbols/) 
 ### June 25, 2018 
 - [Redux modules and code-splitting – Nicolas Gallagher](http://nicolasgallagher.com/redux-modules-and-code-splitting/) 
 ### June 1, 2018 
