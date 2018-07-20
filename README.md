@@ -5,6 +5,9 @@ Interesting stuff I like
 
 
 
+
+### July 20, 2018 
+- [async vs defer attributes - Growing with the Web](http://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html) 
 ### July 12, 2018 
 - [Metaprogramming in ES6: Symbols and why they're awesome](https://www.keithcirkel.co.uk/metaprogramming-in-es6-symbols/) 
 ### June 25, 2018 
