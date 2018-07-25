@@ -6,6 +6,9 @@ Interesting stuff I like
 
 
 
+
+### July 25, 2018 
+- [Modules | Node.js v10.7.0 Documentation](https://nodejs.org/api/modules.html#modules_cycles) 
 ### July 20, 2018 
 - [async vs defer attributes - Growing with the Web](http://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html) 
 ### July 12, 2018 
