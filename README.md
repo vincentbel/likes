@@ -11,152 +11,161 @@ Interesting stuff I like
 
 ### July 30, 2018 
 - [VSCodeThemes](https://vscodethemes.com/) 
+
 ### July 26, 2018 
 - [PaulBoxley.com – Git caret and tilde](http://www.paulboxley.com/blog/2011/06/git-caret-and-tilde) 
+
 ### July 25, 2018 
 - [Modules | Node.js v10.7.0 Documentation](https://nodejs.org/api/modules.html#modules_cycles) 
+
 ### July 20, 2018 
 - [async vs defer attributes - Growing with the Web](http://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html) 
+
 ### July 12, 2018 
 - [Metaprogramming in ES6: Symbols and why they're awesome](https://www.keithcirkel.co.uk/metaprogramming-in-es6-symbols/) 
+
 ### June 25, 2018 
 - [Redux modules and code-splitting – Nicolas Gallagher](http://nicolasgallagher.com/redux-modules-and-code-splitting/) 
+
 ### June 1, 2018 
 - [What is and how does Single Sign On Authentication work?](https://auth0.com/blog/what-is-and-how-does-single-sign-on-work/) 
+
 ### May 31, 2018 
 - [Intersection Types | Flow](https://flow.org/en/docs/types/intersections/) 
 - [JavaScript has a Unicode problem · Mathias Bynens](https://mathiasbynens.be/notes/javascript-unicode) 
 - [Interface vs Type alias in TypeScript 2.7 – Martin Hochel – Medium](https://medium.com/@martin_hotell/interface-vs-type-alias-in-typescript-2-7-2a8f1777af4c) 
-### November 7, 2016
-- [Idnan/like-on-git: Chrome extension - Link a repository with the extension and automatically save the links to content you like](https://github.com/Idnan/like-on-git) 
 
-### November 8, 2016
-- [AdvancedTopicTutorial · t9md/atom-vim-mode-plus Wiki](https://github.com/t9md/atom-vim-mode-plus/wiki/AdvancedTopicTutorial) 
+### May 25, 2018 
+- [Tell Me When it Closes](https://tellmewhenitcloses.com/) 
 
-### November 10, 2016
-- [operator, the true power of Vim](http://whileimautomaton.net/2008/11/vimm3/operator) 
+### May 13, 2018 
+- [Maybe you don't need Rust and WASM to speed up your JS](https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html) 
 
-### November 30, 2016
-- [I/O Redirection](http://www.tldp.org/LDP/abs/html/io-redirection.html) 
-- [I/O Redirection](http://www.tldp.org/LDP/abs/html/io-redirection.html) 
+### April 24, 2018 
+- [Software Testing Anti-patterns · Codepipes Blog](http://blog.codepipes.com/testing/software-testing-antipatterns.html#anti-pattern-2---having-integration-tests-without-unit-tests) 
 
-### December 5, 2016
-- [网页截图:注释&批注 - Chrome 网上应用店](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj) 
+### March 6, 2018 
+- [Better JS Cases with Sum Types – Fullstack Academy – Medium](https://medium.com/fullstack-academy/better-js-cases-with-sum-types-92876e48fd9f) 
 
-### December 8, 2016
-- [reactjs/reselect: Selector library for Redux](https://github.com/reactjs/reselect#q-why-isnt-my-selector-recomputing-when-the-input-state-changes) 
+### January 5, 2018 
+- [A Strongly-Typed Redux Action Pattern for TypeScript 2.4+](https://spin.atomicobject.com/2017/07/24/redux-action-pattern-typescript/) 
 
-### December 9, 2016
-- [Vjeux » Javascript – How Prototypal Inheritance really works](http://blog.vjeux.com/2011/javascript/how-prototypal-inheritance-really-works.html) 
+### January 4, 2018 
+- [Element size and scrolling](http://javascript.info/size-and-scroll#offsetparent-offsetleft-top) 
 
-### December 27, 2016
-- [Lockfiles should be committed on all projects | Yarn Blog](https://yarnpkg.com/blog/2016/11/24/lockfiles-for-all) 
+### November 29, 2017 
+- [22. Generators](http://exploringjs.com/es6/ch_generators.html) 
 
-### February 7, 2017
-- [npms](https://npms.io/about) 
-- [How To Write Fast, Memory-Efficient JavaScript – Smashing Magazine](https://www.smashingmagazine.com/2012/11/writing-fast-memory-efficient-javascript/) 
+### November 15, 2017 
+- [GitHub Flow – Scott Chacon](http://scottchacon.com/2011/08/31/github-flow.html) 
 
-### February 10, 2017
-- [Here are 250 Ivy League courses you can take online right now for free](https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869#.blxjw37yq) 
+### November 7, 2017 
+- [Equality comparisons and sameness - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness) 
 
-### February 17, 2017
-- [DRY原则的误区](http://www.yinwang.org/blog-cn/2015/06/14/dry-principle) 
-- [什么是“脚本语言”](http://www.yinwang.org/blog-cn/2013/03/29/scripting-language) 
+### October 30, 2017 
+- [JavaScript character escape sequences · Mathias Bynens](https://mathiasbynens.be/notes/javascript-escapes#code-points) 
 
-### February 22, 2017
-- [Optimization killers · petkaantonov/bluebird Wiki](https://github.com/petkaantonov/bluebird/wiki/Optimization-killers) 
+### October 23, 2017 
+- [LukeW | What Would Augment Reality? (1-10)](https://www.lukew.com/ff/entry.asp?1974) 
 
-### March 1, 2017
-- [A cartoon intro to WebAssembly ★ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/) 
+### October 11, 2017 
+- [The whole web at maximum FPS: How WebRender gets rid of jank ★ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank/) 
 
-### March 28, 2017
-- [Setup a Shadowsocks relay · shadowsocks/shadowsocks Wiki](https://github.com/shadowsocks/shadowsocks/wiki/Setup-a-Shadowsocks-relay) 
-
-### March 29, 2017
-- [iTerm as a slide-out terminal from the top of the screen - Ask Different](http://apple.stackexchange.com/questions/48796/iterm-as-a-slide-out-terminal-from-the-top-of-the-screen) 
-- [More specific if conditions lead to ~10% faster render. by asolove · Pull Request #610 · developit/preact](https://github.com/developit/preact/pull/610) 
-
-### April 18, 2017
-- [4K and 5K Display Buyer's Guide for Macs - Mac Rumors](https://www.macrumors.com/guide/4k-5k-displays-buyers-guide-mac/) 
-
-### May 11, 2017
-- [Webpack Visualizer](https://chrisbateman.github.io/webpack-visualizer/) 
-
-### June 6, 2017
-- [Google not, learn not: why searching can sometimes be better than knowing](https://medium.freecodecamp.com/google-not-learn-not-why-searching-can-be-better-than-knowing-79838f7a0f06) 
-
-### June 29, 2017
-- [Sorting Algorithm Animations | Toptal](https://www.toptal.com/developers/sorting-algorithms) 
-
-### July 25, 2017 
-- [LukeW | Mobile Design Details: Avoid The Spinner](https://www.lukew.com/ff/entry.asp?1797) 
-- [Optimistic UI – True Lies – Smashing Magazine](https://www.smashingmagazine.com/2016/11/true-lies-of-optimistic-user-interfaces/) 
-
-### August 25, 2017 
-- [Secure and fast GitHub Pages with CloudFlare](https://blog.cloudflare.com/secure-and-fast-github-pages-with-cloudflare/) 
-
-### August 30, 2017 
-- [Joyent | Error Handling](https://www.joyent.com/node-js/production/design/errors) 
-
-### September 4, 2017 
-- [How Elm Slays a UI Antipattern](http://blog.jenkster.com/2016/06/how-elm-slays-a-ui-antipattern.html) 
-
-### September 5, 2017 
-- [It's Not Just Standing Up: Patterns for Daily Standup Meetings](https://martinfowler.com/articles/itsNotJustStandingUp.html#WhereAndWhen) 
-
-### September 7, 2017 
-- [利用dns解析来实现网站的负载均衡 - 程序员就要好好玩 - SegmentFault](https://segmentfault.com/a/1190000002578457) 
-- [Tutorial: Using Docker and Nginx to Host Multiple Websites](http://blog.ssdnodes.com/blog/tutorial-using-docker-and-nginx-to-host-multiple-websites) 
-
-### September 17, 2017 
-- [How to Avoid Focus-stealing Traps](https://blog.evernote.com/blog/2017/08/08/avoid-focus-stealing-traps/?origin=email_sfmc&utm_source=sfmc&utm_medium=email&utm_campaign=EVN-ENG-NLS-88-EN-8888-Newsletter_082317&utm_content=button) 
-
-### September 19, 2017 
-- [Three Rules For Structuring (Redux) Applications — Jack Hsu](https://jaysoo.ca/2016/02/28/organizing-redux-application/#rule-2-create-strict-module-boundaries) 
-- [Deploying ES2015+ Code in Production Today — Philip Walton](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-09-19) 
-
-### September 24, 2017 
-- [Re:从零开始的异世界Apple ID注册教程 - 知乎专栏](https://zhuanlan.zhihu.com/p/28625807) 
+### October 10, 2017 
+- [A Guide to Faster Web App I/O and Data Operations with Streams - Blog | SitePen](https://www.sitepen.com/blog/2017/10/02/a-guide-to-faster-web-app-io-and-data-operations-with-streams/) 
 
 ### September 26, 2017 
 - [GoodUI | Good User Interfaces for higher conversion rates and ease of use](https://goodui.org/#3) 
 - [理解HTTP幂等性 - Todd Wei - 博客园](http://www.cnblogs.com/weidagang2046/archive/2011/06/04/idempotence.html) 
 
-### October 10, 2017 
-- [A Guide to Faster Web App I/O and Data Operations with Streams - Blog | SitePen](https://www.sitepen.com/blog/2017/10/02/a-guide-to-faster-web-app-io-and-data-operations-with-streams/) 
+### September 24, 2017 
+- [Re:从零开始的异世界Apple ID注册教程 - 知乎专栏](https://zhuanlan.zhihu.com/p/28625807) 
 
-### October 11, 2017 
-- [The whole web at maximum FPS: How WebRender gets rid of jank ★ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank/) 
+### September 19, 2017 
+- [Three Rules For Structuring (Redux) Applications — Jack Hsu](https://jaysoo.ca/2016/02/28/organizing-redux-application/#rule-2-create-strict-module-boundaries) 
+- [Deploying ES2015+ Code in Production Today — Philip Walton](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2017-09-19) 
 
-### October 23, 2017 
-- [LukeW | What Would Augment Reality? (1-10)](https://www.lukew.com/ff/entry.asp?1974) 
+### September 17, 2017 
+- [How to Avoid Focus-stealing Traps](https://blog.evernote.com/blog/2017/08/08/avoid-focus-stealing-traps/?origin=email_sfmc&utm_source=sfmc&utm_medium=email&utm_campaign=EVN-ENG-NLS-88-EN-8888-Newsletter_082317&utm_content=button) 
 
-### October 30, 2017 
-- [JavaScript character escape sequences · Mathias Bynens](https://mathiasbynens.be/notes/javascript-escapes#code-points) 
+### September 7, 2017 
+- [利用dns解析来实现网站的负载均衡 - 程序员就要好好玩 - SegmentFault](https://segmentfault.com/a/1190000002578457) 
+- [Tutorial: Using Docker and Nginx to Host Multiple Websites](http://blog.ssdnodes.com/blog/tutorial-using-docker-and-nginx-to-host-multiple-websites) 
 
-### November 7, 2017 
-- [Equality comparisons and sameness - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness) 
+### September 5, 2017 
+- [It's Not Just Standing Up: Patterns for Daily Standup Meetings](https://martinfowler.com/articles/itsNotJustStandingUp.html#WhereAndWhen) 
 
-### November 15, 2017 
-- [GitHub Flow – Scott Chacon](http://scottchacon.com/2011/08/31/github-flow.html) 
+### September 4, 2017 
+- [How Elm Slays a UI Antipattern](http://blog.jenkster.com/2016/06/how-elm-slays-a-ui-antipattern.html) 
 
-### November 29, 2017 
-- [22. Generators](http://exploringjs.com/es6/ch_generators.html) 
+### August 30, 2017 
+- [Joyent | Error Handling](https://www.joyent.com/node-js/production/design/errors) 
 
-### January 4, 2018 
-- [Element size and scrolling](http://javascript.info/size-and-scroll#offsetparent-offsetleft-top) 
+### August 25, 2017 
+- [Secure and fast GitHub Pages with CloudFlare](https://blog.cloudflare.com/secure-and-fast-github-pages-with-cloudflare/) 
 
-### January 5, 2018 
-- [A Strongly-Typed Redux Action Pattern for TypeScript 2.4+](https://spin.atomicobject.com/2017/07/24/redux-action-pattern-typescript/) 
+### July 25, 2017 
+- [LukeW | Mobile Design Details: Avoid The Spinner](https://www.lukew.com/ff/entry.asp?1797) 
+- [Optimistic UI – True Lies – Smashing Magazine](https://www.smashingmagazine.com/2016/11/true-lies-of-optimistic-user-interfaces/) 
 
-### March 6, 2018 
-- [Better JS Cases with Sum Types – Fullstack Academy – Medium](https://medium.com/fullstack-academy/better-js-cases-with-sum-types-92876e48fd9f) 
 
-### April 24, 2018 
-- [Software Testing Anti-patterns · Codepipes Blog](http://blog.codepipes.com/testing/software-testing-antipatterns.html#anti-pattern-2---having-integration-tests-without-unit-tests) 
+### June 29, 2017
+- [Sorting Algorithm Animations | Toptal](https://www.toptal.com/developers/sorting-algorithms) 
 
-### May 13, 2018 
-- [Maybe you don't need Rust and WASM to speed up your JS](https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html) 
+### June 6, 2017
+- [Google not, learn not: why searching can sometimes be better than knowing](https://medium.freecodecamp.com/google-not-learn-not-why-searching-can-be-better-than-knowing-79838f7a0f06) 
 
-### May 25, 2018 
-- [Tell Me When it Closes](https://tellmewhenitcloses.com/) 
+### May 11, 2017
+- [Webpack Visualizer](https://chrisbateman.github.io/webpack-visualizer/) 
+
+### April 18, 2017
+- [4K and 5K Display Buyer's Guide for Macs - Mac Rumors](https://www.macrumors.com/guide/4k-5k-displays-buyers-guide-mac/) 
+
+### March 29, 2017
+- [iTerm as a slide-out terminal from the top of the screen - Ask Different](http://apple.stackexchange.com/questions/48796/iterm-as-a-slide-out-terminal-from-the-top-of-the-screen) 
+- [More specific if conditions lead to ~10% faster render. by asolove · Pull Request #610 · developit/preact](https://github.com/developit/preact/pull/610) 
+
+### March 28, 2017
+- [Setup a Shadowsocks relay · shadowsocks/shadowsocks Wiki](https://github.com/shadowsocks/shadowsocks/wiki/Setup-a-Shadowsocks-relay) 
+
+### March 1, 2017
+- [A cartoon intro to WebAssembly ★ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/) 
+
+### February 22, 2017
+- [Optimization killers · petkaantonov/bluebird Wiki](https://github.com/petkaantonov/bluebird/wiki/Optimization-killers) 
+
+### February 17, 2017
+- [DRY原则的误区](http://www.yinwang.org/blog-cn/2015/06/14/dry-principle) 
+- [什么是“脚本语言”](http://www.yinwang.org/blog-cn/2013/03/29/scripting-language) 
+
+### February 10, 2017
+- [Here are 250 Ivy League courses you can take online right now for free](https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869#.blxjw37yq) 
+
+### February 7, 2017
+- [npms](https://npms.io/about) 
+- [How To Write Fast, Memory-Efficient JavaScript – Smashing Magazine](https://www.smashingmagazine.com/2012/11/writing-fast-memory-efficient-javascript/) 
+
+### December 27, 2016
+- [Lockfiles should be committed on all projects | Yarn Blog](https://yarnpkg.com/blog/2016/11/24/lockfiles-for-all) 
+
+### December 9, 2016
+- [Vjeux » Javascript – How Prototypal Inheritance really works](http://blog.vjeux.com/2011/javascript/how-prototypal-inheritance-really-works.html) 
+
+### December 8, 2016
+- [reactjs/reselect: Selector library for Redux](https://github.com/reactjs/reselect#q-why-isnt-my-selector-recomputing-when-the-input-state-changes) 
+
+### December 5, 2016
+- [网页截图:注释&批注 - Chrome 网上应用店](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj) 
+
+### November 30, 2016
+- [I/O Redirection](http://www.tldp.org/LDP/abs/html/io-redirection.html) 
+- [I/O Redirection](http://www.tldp.org/LDP/abs/html/io-redirection.html) 
+
+### November 10, 2016
+- [operator, the true power of Vim](http://whileimautomaton.net/2008/11/vimm3/operator) 
+
+### November 8, 2016
+- [AdvancedTopicTutorial · t9md/atom-vim-mode-plus Wiki](https://github.com/t9md/atom-vim-mode-plus/wiki/AdvancedTopicTutorial) 
+
+### November 7, 2016
+- [Idnan/like-on-git: Chrome extension - Link a repository with the extension and automatically save the links to content you like](https://github.com/Idnan/like-on-git) 
