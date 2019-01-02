@@ -9,6 +9,9 @@ Interesting stuff I like
 
 
 
+
+### January 2, 2019 
+- [Believe you can change (Aaron Swartz's Raw Thought)](http://www.aaronsw.com/weblog/dweck#fn:m3) 
 ### July 30, 2018 
 - [VSCodeThemes](https://vscodethemes.com/) 
 
