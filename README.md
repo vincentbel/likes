@@ -10,6 +10,9 @@ Interesting stuff I like
 
 
 
+
+### January 15, 2019 
+- [Look at yourself objectively (Aaron Swartz's Raw Thought)](http://www.aaronsw.com/weblog/semmelweis) 
 ### January 2, 2019 
 - [Believe you can change (Aaron Swartz's Raw Thought)](http://www.aaronsw.com/weblog/dweck#fn:m3) 
 ### July 30, 2018 
