@@ -11,6 +11,9 @@ Interesting stuff I like
 
 
 
+
+### January 16, 2019 
+- [Push, push, push. Expanding your comfort zone. | Derek Sivers](https://sivers.org/comfort) 
 ### January 15, 2019 
 - [Look at yourself objectively (Aaron Swartz's Raw Thought)](http://www.aaronsw.com/weblog/semmelweis) 
 ### January 2, 2019 
