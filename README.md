@@ -14,6 +14,7 @@ Interesting stuff I like
 
 ### January 16, 2019 
 - [Push, push, push. Expanding your comfort zone. | Derek Sivers](https://sivers.org/comfort) 
+- [TypeScript 2.8: Conditional Types — Marius Schulz](https://blog.mariusschulz.com/2019/01/09/typescript-2-8-conditional-types?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2019-01-15) 
 ### January 15, 2019 
 - [Look at yourself objectively (Aaron Swartz's Raw Thought)](http://www.aaronsw.com/weblog/semmelweis) 
 ### January 2, 2019 
