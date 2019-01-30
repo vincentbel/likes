@@ -12,6 +12,9 @@ Interesting stuff I like
 
 
 
+
+### January 30, 2019 
+- [Functors, Applicatives, And Monads In Pictures - adit.io](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html) 
 ### January 16, 2019 
 - [Push, push, push. Expanding your comfort zone. | Derek Sivers](https://sivers.org/comfort) 
 - [TypeScript 2.8: Conditional Types — Marius Schulz](https://blog.mariusschulz.com/2019/01/09/typescript-2-8-conditional-types?utm_source=ESnextNews.com&utm_medium=Weekly+Newsletter&utm_campaign=2019-01-15) 
