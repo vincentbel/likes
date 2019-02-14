@@ -13,6 +13,9 @@ Interesting stuff I like
 
 
 
+
+### February 14, 2019 
+- [Kafka深度解析 | 技术世界 | kafka,大数据,集群,kafka 架构,技术世界,郭俊 Jason,大数据架构,Kafka HA,kafka benchmark,kafka split brain,kafka 脑裂](http://www.jasongj.com/2015/01/02/Kafka%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90/) 
 ### January 30, 2019 
 - [Functors, Applicatives, And Monads In Pictures - adit.io](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html) 
 ### January 16, 2019 
