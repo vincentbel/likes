@@ -17,6 +17,7 @@ Interesting stuff I like
 
 ### February 26, 2019 
 - [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/) 
+- [谈谈我的"三观" | | 酷 壳 - CoolShell](https://coolshell.cn/articles/19085.html) 
 ### February 14, 2019 
 - [Kafka深度解析 | 技术世界 | kafka,大数据,集群,kafka 架构,技术世界,郭俊 Jason,大数据架构,Kafka HA,kafka benchmark,kafka split brain,kafka 脑裂](http://www.jasongj.com/2015/01/02/Kafka%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90/) 
 ### January 30, 2019 
