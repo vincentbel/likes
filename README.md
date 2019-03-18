@@ -16,6 +16,9 @@ Interesting stuff I like
 
 
 
+
+### March 18, 2019 
+- [Writing Resilient Components — Overreacted](https://overreacted.io/writing-resilient-components/) 
 ### February 28, 2019 
 - [CSS Triggers](https://csstriggers.com/) 
 - [Dev.Opera — Understanding the CSS Transforms Matrix](https://dev.opera.com/articles/understanding-the-css-transforms-matrix/#figure-1) 
