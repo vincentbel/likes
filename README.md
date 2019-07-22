@@ -21,6 +21,7 @@ Interesting stuff I like
 ### July 23, 2019 
 - [Algebraic Effects for the Rest of Us — Overreacted](https://overreacted.io/algebraic-effects-for-the-rest-of-us/) 
 - [What Color is Your Function? – journal.stuffwithstuff.com](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/) 
+- [Long Names Are Long – journal.stuffwithstuff.com](https://journal.stuffwithstuff.com/2016/06/16/long-names-are-long/) 
 ### March 18, 2019 
 - [Writing Resilient Components — Overreacted](https://overreacted.io/writing-resilient-components/) 
 ### February 28, 2019 
