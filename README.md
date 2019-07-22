@@ -17,6 +17,9 @@ Interesting stuff I like
 
 
 
+
+### July 23, 2019 
+- [Algebraic Effects for the Rest of Us — Overreacted](https://overreacted.io/algebraic-effects-for-the-rest-of-us/) 
 ### March 18, 2019 
 - [Writing Resilient Components — Overreacted](https://overreacted.io/writing-resilient-components/) 
 ### February 28, 2019 
