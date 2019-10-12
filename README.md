@@ -18,6 +18,9 @@ Interesting stuff I like
 
 
 
+
+### October 12, 2019 
+- [Making Instagram.com faster: Part 3 — cache first - Instagram Engineering](https://instagram-engineering.com/making-instagram-com-faster-part-3-cache-first-6f3f130b9669) 
 ### July 23, 2019 
 - [Algebraic Effects for the Rest of Us — Overreacted](https://overreacted.io/algebraic-effects-for-the-rest-of-us/) 
 - [What Color is Your Function? – journal.stuffwithstuff.com](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/) 
