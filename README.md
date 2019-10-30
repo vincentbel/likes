@@ -22,6 +22,7 @@ Interesting stuff I like
 
 ### October 30, 2019 
 - [post-rfc/sotu.md at master · Gabriel439/post-rfc](https://github.com/Gabriel439/post-rfc/blob/master/sotu.md) 
+- [State of the Haskell ecosystem](https://github.com/Gabriel439/post-rfc/blob/master/sotu.md) 
 ### October 12, 2019 
 - [Making Instagram.com faster: Part 3 — cache first - Instagram Engineering](https://instagram-engineering.com/making-instagram-com-faster-part-3-cache-first-6f3f130b9669) 
 ### July 23, 2019 
