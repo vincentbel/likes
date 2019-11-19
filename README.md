@@ -20,6 +20,9 @@ Interesting stuff I like
 
 
 
+
+### November 19, 2019 
+- [Thinking in GraphQL · Relay](https://relay.dev/docs/en/thinking-in-graphql.html) 
 ### October 30, 2019 
 - [post-rfc/sotu.md at master · Gabriel439/post-rfc](https://github.com/Gabriel439/post-rfc/blob/master/sotu.md) 
 - [State of the Haskell ecosystem](https://github.com/Gabriel439/post-rfc/blob/master/sotu.md) 
