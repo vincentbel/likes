@@ -21,6 +21,9 @@ Interesting stuff I like
 
 
 
+
+### November 22, 2019 
+- [URLs Without Trailing Slash or Extension (Nginx, Apache)](https://christopheraue.net/design/urls-without-trailing-slash-or-extension) 
 ### November 19, 2019 
 - [Thinking in GraphQL · Relay](https://relay.dev/docs/en/thinking-in-graphql.html) 
 ### October 30, 2019 
