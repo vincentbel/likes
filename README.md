@@ -23,6 +23,9 @@ Interesting stuff I like
 
 
 
+
+### November 28, 2019 
+- [The SVG `path` Syntax: An Illustrated Guide | CSS-Tricks](https://css-tricks.com/svg-path-syntax-illustrated-guide/) 
 ### November 26, 2019 
 - [A regex cheatsheet for all those regex haters (and lovers) 👀 - DEV Community 👩‍💻👨‍💻](https://dev.to/catherinecodes/a-regex-cheatsheet-for-all-those-regex-haters-and-lovers--2cj1) 
 ### November 22, 2019 
