@@ -25,6 +25,9 @@ Interesting stuff I like
 
 
 
+
+### September 1, 2020 
+- [Merrick Christensen - Headless User Interface Components](https://www.merrickchristensen.com/articles/headless-user-interface-components/) 
 ### March 9, 2020 
 - [Where to Store JWTs - Cookies vs HTML5 Web Storage | Stormpath](https://stormpath.com/blog/where-to-store-your-jwts-cookies-vs-html5-web-storage) 
 ### November 28, 2019 
