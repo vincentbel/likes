@@ -26,6 +26,9 @@ Interesting stuff I like
 
 
 
+
+### October 22, 2020 
+- [前端安全系列（二）：如何防止CSRF攻击？ - 美团技术团队](https://tech.meituan.com/2018/10/11/fe-security-csrf.html) 
 ### September 1, 2020 
 - [Merrick Christensen - Headless User Interface Components](https://www.merrickchristensen.com/articles/headless-user-interface-components/) 
 ### March 9, 2020 
