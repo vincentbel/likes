@@ -27,6 +27,9 @@ Interesting stuff I like
 
 
 
+
+### August 24, 2021 
+- [🚀 Visualizing memory management in Rust | Technorage](https://deepu.tech/memory-management-in-rust/) 
 ### October 22, 2020 
 - [前端安全系列（二）：如何防止CSRF攻击？ - 美团技术团队](https://tech.meituan.com/2018/10/11/fe-security-csrf.html) 
 ### September 1, 2020 
